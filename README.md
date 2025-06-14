@@ -8,7 +8,7 @@ Energy IQ remains up-to-date without any manual effort.
 **Note**: This tool is specifically oriented toward users with smart gas meters
 from Octopus Energy.
 
-## Features
+## Features 
 
 - Automatically pulls your gas usage data from Octopus Energy.
 - Syncs the data with Tado Energy IQ for better home energy management insights.
